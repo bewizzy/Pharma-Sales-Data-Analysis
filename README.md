@@ -27,5 +27,4 @@ The dashboard provides insights into sales performance across product categories
 - `Pharma` – Dashboard images
 - `data/` – Dataset used for analysis (if applicable)
 
-## Preview
-![Dashboard Preview](Pharma dashboard.png)
+
