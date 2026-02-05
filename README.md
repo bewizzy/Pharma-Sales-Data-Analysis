@@ -25,6 +25,6 @@ The dashboard provides insights into sales performance across product categories
 ## Files in This Repository
 - `Pharma sales project.pbix` – Power BI report file
 - `Pharma` – Dashboard images
-- `data/` – Dataset used for analysis (if applicable)
+-
 
 
